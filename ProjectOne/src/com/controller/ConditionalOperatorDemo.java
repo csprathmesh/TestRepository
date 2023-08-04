@@ -12,6 +12,8 @@ public class ConditionalOperatorDemo
 		testList.add(3);
 		
 		System.out.println("testCommint");
+
+		System.out.println("testCommint 2");
 		
 		System.out.println(testList);
 		
